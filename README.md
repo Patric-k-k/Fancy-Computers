@@ -1,2 +1,2 @@
 # Fancy-Computers
-Minecraft Fancy Computers Mod
+Minecraft Fancy Computers Mod, Currently in development.
